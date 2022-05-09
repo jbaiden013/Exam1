@@ -1,0 +1,3 @@
+[submodule "documentationA"]
+	path = documentationA
+	url = https://github.com/jbaiden013/documentationA
